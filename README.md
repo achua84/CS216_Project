@@ -24,7 +24,7 @@ After, I added some data visualization code to further explore the optotypes.
 
 Then, I used to model to display some of the images that the final model was able to predict correctly and incorrectly. 
 
-## baseline_model.ipynb
+## Baseline_model.ipynb
 
 Even though Brooke took over this part, in the beginning, I was playing around with using the original dataset and the transfer learning models. The code in the notebook is a result of that. 
 
